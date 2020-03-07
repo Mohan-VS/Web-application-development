@@ -1,0 +1,237 @@
+﻿body {
+    margin: auto;
+    width: 800px;
+    height: 1900px;
+    
+}
+#top{
+
+    text-align:center;
+}
+
+#img {
+    width:794px;
+    height:200px;
+}
+#lbl1 {
+    display: inline-block;
+    color: royalblue;
+    font-size:17px;
+}
+#lbl2 {
+    display: inline-block;
+    padding-top: 10px;
+    color: red;
+    font-size:16px;
+    font-style:italic;
+}
+#lbl3 {
+    color: red;
+    padding-top: 15px;
+    padding-bottom:15px;
+    text-align: right;
+}
+
+/*block 1 started*/
+
+.block1 {
+    margin: auto;
+    width: 700px;
+    height: 170px;
+    border-style:solid;
+    border-width:1px;
+}
+.lblHeading {
+    display: block;
+    background-color: lightslategray;
+}
+
+.labelsRed{
+    display:inline-block;
+    color:brown;
+    font-size:18px;
+    margin-left:20px;
+    padding-top:10px; 
+    
+}
+.labelsRight {
+    display:inline-block;
+    color: brown;
+    font-size: 18px;
+    margin-left:200px;
+}
+.TxtBox {
+    font-size: 18px;
+    margin-left: 20px;
+}
+#tbLName {
+    font-size: 18px;
+    margin-left: 100px;
+}
+#lblGender {
+    display:inline-block;
+    font-size: 18px;
+    margin-left: 130px;
+}
+#ddlGender {
+    font-size: 18px;
+    margin-left: 55px;
+}
+#lblDateFormat{
+    margin-left:20px;
+    font-size:16px;
+}
+
+
+/*block 2 started*/
+.block2 {
+    margin: auto;
+    margin-top: 40px;
+    width: 700px;
+    height: 400px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: aliceblue
+}
+
+#lblMail2{
+    display:inline-block;
+    color:black;
+    margin-left:20px;
+    font-size:18px;
+    padding-top:20px;
+}
+#lblState{
+    display:inline-block;
+    margin-left:120px;
+}
+#lblZip {
+    display: inline-block;
+    margin-left: 100px;
+}
+#tbMobile2{
+    margin-left:10px;
+}
+#tbMobile3{
+    margin-left:10px;
+}
+#lblMaywe{
+    display:inline-block;
+    margin-left:180px;
+}
+#ddlMaywe{
+    margin-left:50px;
+}
+.top{
+    margin-bottom:10px;
+    margin-left:2px;
+}
+#tbOther2 {
+    margin-left: 10px;
+}
+
+#tbOther3 {
+    margin-left: 10px;
+}
+#lblOther {
+    display: inline-block;
+    color: black;
+}
+
+/*Block 3 starts*/
+.block3 {
+    margin: auto;
+    margin-top: 40px;
+    width: 700px;
+    height: 200px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#ddlOnCampus{
+    margin-left:50px;
+}
+#lblInternational{
+    color:black;
+}
+
+/*block 4 starts*/
+
+.block4 {
+    margin: auto;
+    margin-top: 40px;
+    border-style: solid;
+    border-width: 1px;
+    height:100px;
+    width:700px;
+    background-color:ghostwhite;
+}
+/*block 5 starts*/
+
+
+.block5 {
+    margin: auto;
+    margin-top: 40px;
+    border-style: solid;
+    border-width: 1px;
+    height: 100px;
+    width: 700px;
+    background-color:snow;
+}
+/*block 6 starts*/
+
+.block6 {
+    margin: auto;
+    margin-top: 40px;
+    border-style: solid;
+    border-width: 1px;
+    height: 170px;
+    width: 700px;
+    background-color:wheat;
+}
+#lblSelect{
+    display:inline-block;
+    color:black;
+}
+
+#btnSubmit{
+    margin-left:300px;
+    margin-top:20px;
+    margin-bottom:30px;
+    font-size:18px;
+}
+#btnCancel{
+    margin-left:80px;
+    margin-top:20px;
+    margin-bottom:30px;
+    font-size:18px;
+}
+
+/*block 7 final starts*/
+
+.block7 {
+    margin: auto;
+    margin-top: 20px;
+    height: 80px;
+    width: 700px;
+}
+
+/* Validations */
+.Validation{
+    color:red;
+    font-size:14px;
+}
+
+#valsum{
+    margin:auto;
+    font-size:18px;
+
+}
+
+#lblStatus{
+    display:block;
+    text-align:center;
+    font-size:25px;
+    color:green;
+
+}
